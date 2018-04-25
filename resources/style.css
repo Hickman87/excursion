@@ -1,3 +1,6 @@
-copy {
+body  {
   font-family: Verdana; Sans serif;
+  background-color: black;
+  text-align: center;
+  color: white;
 }
